@@ -15,10 +15,10 @@
 							<h3><span>Web Developer / Full Stack</span></h3>
 							<p style="margin-top: 15px;">
 								<ul class="fh5co-social-icons">
-									<li><a href="#"><i class="icon-twitter2"></i></a></li>
-									<li><a href="#"><i class="icon-facebook2"></i></a></li>
-									<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-									<li><a href="#"><i class="icon-instagram"></i></a></li>
+									<li><a href="https://twitter.com/chgyn"><i class="icon-twitter2"></i></a></li>
+									<li><a href="https://github.com/chgyn"><i class="icon-github"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/charlesegidio"><i class="icon-linkedin2"></i></a></li>
+									<li><a href="https://www.instagram.com/charlesegidio"><i class="icon-instagram"></i></a></li>
 								</ul>
 							</p>
 						</div>

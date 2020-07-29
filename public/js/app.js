@@ -38382,27 +38382,44 @@ var staticRenderFns = [
                     _c("p", { staticStyle: { "margin-top": "15px" } }, [
                       _c("ul", { staticClass: "fh5co-social-icons" }, [
                         _c("li", [
-                          _c("a", { attrs: { href: "#" } }, [
-                            _c("i", { staticClass: "icon-twitter2" })
-                          ])
+                          _c(
+                            "a",
+                            { attrs: { href: "https://twitter.com/chgyn" } },
+                            [_c("i", { staticClass: "icon-twitter2" })]
+                          )
                         ]),
                         _vm._v(" "),
                         _c("li", [
-                          _c("a", { attrs: { href: "#" } }, [
-                            _c("i", { staticClass: "icon-facebook2" })
-                          ])
+                          _c(
+                            "a",
+                            { attrs: { href: "https://github.com/chgyn" } },
+                            [_c("i", { staticClass: "icon-github" })]
+                          )
                         ]),
                         _vm._v(" "),
                         _c("li", [
-                          _c("a", { attrs: { href: "#" } }, [
-                            _c("i", { staticClass: "icon-linkedin2" })
-                          ])
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href:
+                                  "https://www.linkedin.com/in/charlesegidio"
+                              }
+                            },
+                            [_c("i", { staticClass: "icon-linkedin2" })]
+                          )
                         ]),
                         _vm._v(" "),
                         _c("li", [
-                          _c("a", { attrs: { href: "#" } }, [
-                            _c("i", { staticClass: "icon-instagram" })
-                          ])
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "https://www.instagram.com/charlesegidio"
+                              }
+                            },
+                            [_c("i", { staticClass: "icon-instagram" })]
+                          )
                         ])
                       ])
                     ])
